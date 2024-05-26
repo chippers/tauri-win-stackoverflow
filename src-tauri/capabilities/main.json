@@ -60,6 +60,27 @@
       "fs:allow-appcache-write",
       "fs:allow-appcache-write-recursive",
       "fs:allow-appconfig-write",
-      "os:allow-platform"
+      "os:allow-platform",
+      "notification:default",
+      "notification:allow-is-permission-granted",
+      "notification:allow-notify",
+      "notification:allow-request-permission",
+      "dialog:default",
+      "dialog:allow-confirm",
+      "dialog:allow-ask",
+      "dialog:allow-open",
+      "store:default",
+      "store:allow-clear",
+      "store:allow-delete",
+      "store:allow-entries",
+      "store:allow-get",
+      "store:allow-has",
+      "store:allow-keys",
+      "store:allow-length",
+      "store:allow-load",
+      "store:allow-reset",
+      "store:allow-save",
+      "store:allow-set",
+      "store:allow-values"
     ]
   }
